@@ -1,2 +1,10 @@
 # gulp-2022-exapmle
-example template project of gulp 2022
+for setup and clear prod: delete files dist. files inside of src can be deleted
+
+Gulp config features:
+* deploy via FTP (not tested)
+* convert images to webp (css, html, php) and compress original imaged (in dist folder)
+* file include in HTML (php has own include/require)
+* webpack import js files
+* convert fonts and create fonts.less
+* create .ZIP archive
