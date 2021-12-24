@@ -8,5 +8,6 @@ Gulp config features:
 * convert images to webp (css, html, php) and compress original imaged (in dist folder)
 * file include in HTML (php has own include/require)
 * webpack import js files
+* make svg sprites
 * convert fonts and create fonts.less
 * create .ZIP archive
